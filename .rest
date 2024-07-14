@@ -1,0 +1,10 @@
+
+POST http://localhost:4000/sales/create
+###
+PUT http://localhost:4000/sales/addSale
+###
+GET http://localhost:4000/sales/aggregate
+###
+DELETE http://localhost:4000/sales/delete
+
+
